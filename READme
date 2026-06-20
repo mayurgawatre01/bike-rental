@@ -1,0 +1,102 @@
+Bike Rental Management System 🚲
+
+A Python-based bike rental management system that allows users to rent bikes, calculate rental charges, apply discounts, and generate receipts.
+
+This project demonstrates Object-Oriented Programming concepts using Python.
+
+---
+
+Features
+
+✅ Rent bikes  
+✅ Hourly rental calculation  
+✅ Discount support  
+✅ Late return penalty  
+✅ Receipt generation  
+✅ Inventory tracking  
+
+---
+
+Tech Stack
+
+- Python
+- OOP (Object-Oriented Programming)
+
+---
+
+Project Structure
+
+```bash
+bike-rental-management-system/
+│── finalcode.py
+│── README.md
+```
+
+---
+ Functionalities
+
+Customer
+- Rent bikes
+- View bill
+- Get receipt
+
+Admin
+- Manage stock
+- Track rentals
+
+---
+
+xample Output
+text
+RENTAL RECEIPT
+
+Bikes Rented : 8
+Rental Basis : Hourly
+Duration : 80
+
+Discount : None
+Late Penalty : ₹0
+
+Total Bill : ₹12800
+
+
+---
+
+ Run Project
+
+Clone:
+
+bash
+git clone <repo-url>
+
+
+Run:
+
+bash
+python finalcode.py
+
+
+---
+
+Concepts Used
+
+- Classes
+- Functions
+- Encapsulation
+- Conditional Logic
+
+---
+
+ Future Improvements
+
+- GUI Interface
+- Database Integration
+- Online Booking
+- Payment System
+
+---
+
+ Author
+
+Mayur Gawatre  
+AIML Engineering Student
